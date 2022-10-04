@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as o,a as n}from"./app.723e565b.js";const c={},_=n("p",null,"button\u7EC4\u4EF6",-1),s=[_];function a(r,l){return e(),o("div",null,s)}const d=t(c,[["render",a],["__file","Button.html.vue"]]);export{d as default};

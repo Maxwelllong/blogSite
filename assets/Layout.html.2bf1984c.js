@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a as c}from"./app.723e565b.js";const _={},a=c("p",null,"layou\u7EC4\u4EF6",-1),s=[a];function n(l,r){return t(),o("div",null,s)}const d=e(_,[["render",n],["__file","Layout.html.vue"]]);export{d as default};
